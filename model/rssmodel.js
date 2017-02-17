@@ -20,20 +20,21 @@ mongoose.connection.on("error",console.log.bind(console,"connect error"));
 
    exports.insertManyRss =function (modelname, data) {
  
-    
        mongoose.model(modelname, _schema.rssFeedsSchema).insertMany(data, function (err, success) {
            if (err) {
-                console.log("err insertMany")
+               // console.log(err)
            } else {
                console.log("success")
             }
         });
-        
-
+ 
 }    
 exports.getFeeds = function(modelname,clb){
  mongoose.model(modelname,_schema.rssFeedsSchema).find({}).limit(50).exec(function(err,success){
     if(!err){
+        clb(null)
+    } else {
+        console.log(success.length)
         clb(null,success)
     }
 });
