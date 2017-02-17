@@ -8,5 +8,5 @@ Jobs.setupJobs();
 
 http.createServer(function (req, res) {
     
-}).listen(port,"107.170.18.192");
+}).listen(port);
 
