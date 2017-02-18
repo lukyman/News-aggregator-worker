@@ -20,7 +20,7 @@ mongoose.connection.on("error",console.log.bind(console,"connect error"));
 
    exports.insertManyRss =function (modelname, data) {
  
-       mongoose.model(modelname, _schema.rssFeedsSchema).insertMany(data,{ordered:false} , function (err, success) {
+       mongoose.model(modelname, _schema.rssFeedsSchema).insertMany(data, {ordered:false}, function (err, success) {
            if (err) {
                // console.log(err)
            } else {
