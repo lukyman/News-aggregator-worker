@@ -29,7 +29,7 @@ exports.rssFeedsSchema = new Schema({
 	},
 	likes: Number,
 	views:Number,
-	comments: [
+	nipashe_comments: [
 		{
 			user: String,
 			comment:String
