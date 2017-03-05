@@ -20,7 +20,7 @@ exports.rssFeedsSchema = new Schema({
 	description: [],
 	link: [],
 	linkid:{type:String,unique:true},
-	
+	titleid:{type:String,unique:true},
 	pubDate: [{type:Date}],
 	meta: {
 		title: String,

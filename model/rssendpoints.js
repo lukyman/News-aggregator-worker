@@ -9,7 +9,8 @@ module.exports = {
         "kenyans": "https://www.kenyans.co.ke/feeds/news",
         "kenya-today": "http://www.kenya-today.com/politics/feed/",
         "citizen-news": "https://citizentv.co.ke/news/feed/",
-        "theguardian-kenya":"https://www.theguardian.com/world/kenya/rss"
+        "theguardian-kenya": "https://www.theguardian.com/world/kenya/rss",
+        "plive":"http://www.plive.co.ke/news/rss"
 	
     },
     "international": {
@@ -35,8 +36,9 @@ module.exports = {
         "foxsport": "http://api.foxsports.com/v1/rss?partnerKey=zBaFxRyGKCfxBagJG9b8pqLyndmvo7UU&tag=soccer",
         "mchezoafrika": "http://www.michezoafrika.com/rss.aspx",
         "goonerpark": "http://goonerpark.org/feed/",
-        "citizen-sports":"https://citizentv.co.ke/sports/feed/",
-
+        "citizen-sports": "https://citizentv.co.ke/sports/feed/",
+        "plive": "http://www.plive.co.ke/sports/rss",
+       
     },
     "lifestyle": {
 		
@@ -45,8 +47,9 @@ module.exports = {
         "healthywoman": "http://healthywoman.co.ke/feed/",
         "luciamusau": "http://luciamusau.com/feed/",
         "edaily": "https://edaily.co.ke/feed/",
-        "citizen-lifestyle":"https://citizentv.co.ke/lifestyle/feed/"
-
+        "citizen-lifestyle": "https://citizentv.co.ke/lifestyle/feed/",
+        "plive": "http://www.plive.co.ke/lifestyle/rss",
+       
     },
     "technology": {
         "venturebeat": "http://feeds.feedburner.com/venturebeat/SZYF?format=xml",
@@ -68,7 +71,15 @@ module.exports = {
         "standardmedia": "http://www.standardmedia.co.ke/rss/entertainment.php",
         "holywoodreporter": "http://feeds.feedburner.com/thr/film",
         "holywoodreporter1": "http://feeds.feedburner.com/thr/music",
-        "holywoodreporter2": "http://feeds.feedburner.com/thr/boxoffice"
+        "holywoodreporter2": "http://feeds.feedburner.com/thr/boxoffice",
+        "plive":"http://www.plive.co.ke/entertainment/rss"
 
+    },
+    "business": {
+        "plive-businessinsider": "http://www.plive.co.ke/lifestyle/rss",
+      //  "nation": "http://www.nation.co.ke/business/996-996-view-asFeed-35lsruz/index.xml",
+        "standardmedia": "http://www.standardmedia.co.ke/rss/business.php",
+        "businesstoday": "http://businesstoday.co.ke/feed/",
+        "economist":"http://www.economist.com/topics/kenya/index.xml"
     }
 }
