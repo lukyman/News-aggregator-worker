@@ -5,7 +5,6 @@ module.exports = {
         "nation": "http://www.nation.co.ke/latestrss.rss",
         "gafla": "http://www.ghafla.co.ke/component/ninjarsssyndicator/?feed_id=1&format=raw",
         "mediamax": "http://www.mediamaxnetwork.co.ke/news/feed/",
-        "kenyapost": "http://www.kenyan-post.com/feeds/posts/default?alt=rss",
         "kenyans": "https://www.kenyans.co.ke/feeds/news",
         "kenya-today": "http://www.kenya-today.com/politics/feed/",
         "citizen-news": "https://citizentv.co.ke/news/feed/",
@@ -77,7 +76,6 @@ module.exports = {
     },
     "business": {
         "plive-businessinsider": "http://www.plive.co.ke/lifestyle/rss",
-      //  "nation": "http://www.nation.co.ke/business/996-996-view-asFeed-35lsruz/index.xml",
         "standardmedia": "http://www.standardmedia.co.ke/rss/business.php",
         "businesstoday": "http://businesstoday.co.ke/feed/",
         "economist":"http://www.economist.com/topics/kenya/index.xml"
