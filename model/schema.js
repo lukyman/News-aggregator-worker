@@ -16,6 +16,7 @@ exports.rssFeedsSchema = new Schema({
 	country:String,
 	category: String,
 	media_image: String,
+	sourcename:String,
 	title: [],
 	description: [],
 	link: [],

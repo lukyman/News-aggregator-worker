@@ -1,11 +1,11 @@
 {
   "name": "nipashe-worker",
   "version": "1.0.0",
-  "description": "Background service for fetching rss crawling for images and sorting feeds before savin to mongodb",
+  "description": "Background service for fetching rss crawling for images and sorting feeds before saving to mongodb",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start":"node app.js"
+    "start": "node app.js"
   },
   "author": "abdulmanan ahmed (iasa.io)",
   "license": "ISC",
@@ -14,7 +14,7 @@
     "events": "^1.1.1",
     "http": "0.0.0",
     "mongodb": "^2.2.24",
-    "mongoose": "^4.8.2",
+    "mongoose": "^4.9.3",
     "nodemon": "^1.11.0",
     "request": "^2.79.0",
     "unfluff": "^1.1.0"
