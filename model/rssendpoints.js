@@ -15,10 +15,10 @@ module.exports = {
     "international": {
         "BBC": "http://feeds.bbci.co.uk/news/rss.xml",
         "Aljazeera": "http://www.aljazeera.com/xml/rss/all.xml",
-        "Skynews": "http://feeds.skynews.com/feeds/rss/world.xml",
+        "Sky-News": "http://feeds.skynews.com/feeds/rss/world.xml",
         "VOA": "http://www.voanews.com/api/z-$otevtiq",
         "AllAfrica": "http://allafrica.com/tools/headlines/rdf/business/headlines.rdf",
-        "Enac": "https://www.enca.com/rss/africa",
+        "eNAC": "https://www.enca.com/rss/africa",
         "The-Guardian-Africa": "https://www.theguardian.com/world/africa/rss",
         "The-Guardian-World":"https://www.theguardian.com/world/rss",
       	
@@ -53,7 +53,7 @@ module.exports = {
         "Venture-Beat": "http://feeds.feedburner.com/venturebeat/SZYF?format=xml",
         "Forbes": "http://www.forbes.com/technology/feed/",
         "The-Next-Web": "http://thenextweb.com/feed/",
-        "IT-News-Africa": "http://itnewsafrica.com/?feed=rss2",
+        //"IT-News-Africa": "http://itnewsafrica.com/?feed=rss2",
         "Techweez": "http://feeds.feedburner.com/techweez",
         "Droid254":"http://www.droid254.com/feed/",
         
@@ -76,7 +76,7 @@ module.exports = {
     "business": {
         "Plive": "http://www.plive.co.ke/lifestyle/rss",
         "Standardmedia": "http://www.standardmedia.co.ke/rss/business.php",
-        "Business-Today": "http://businesstoday.co.ke/feed/",
+        //"Business-Today": "http://businesstoday.co.ke/feed/",
         "Economist":"http://www.economist.com/topics/kenya/index.xml"
     }
 }
