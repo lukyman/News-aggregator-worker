@@ -51,7 +51,7 @@ module.exports = {
     },
     "technology": {
         "Venture-Beat": "http://feeds.feedburner.com/venturebeat/SZYF?format=xml",
-        "Forbes": "http://www.forbes.com/technology/feed/",
+        //"Forbes": "http://www.forbes.com/technology/feed/",
         "The-Next-Web": "http://thenextweb.com/feed/",
        
         "Techweez": "http://feeds.feedburner.com/techweez",
