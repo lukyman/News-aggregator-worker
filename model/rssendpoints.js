@@ -53,7 +53,7 @@ module.exports = {
         "Venture-Beat": "http://feeds.feedburner.com/venturebeat/SZYF?format=xml",
         "Forbes": "http://www.forbes.com/technology/feed/",
         "The-Next-Web": "http://thenextweb.com/feed/",
-        //"IT-News-Africa": "http://itnewsafrica.com/?feed=rss2",
+       
         "Techweez": "http://feeds.feedburner.com/techweez",
         "Droid254":"http://www.droid254.com/feed/",
         
@@ -76,7 +76,7 @@ module.exports = {
     "business": {
         "Plive": "http://www.plive.co.ke/lifestyle/rss",
         "Standardmedia": "http://www.standardmedia.co.ke/rss/business.php",
-        //"Business-Today": "http://businesstoday.co.ke/feed/",
+       
         "Economist":"http://www.economist.com/topics/kenya/index.xml"
     }
 }
