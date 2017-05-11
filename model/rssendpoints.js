@@ -29,7 +29,7 @@ module.exports = {
         "Goal": "http://www.goal.com/en-ke/feeds/news?fmt=rss&ICID=HP",
         "UAFA1": "http://www.uefa.com/rssfeed/uefachampionsleague/rss.xml",
         "UAFA2": "http://www.uefa.com/rssfeed/uefaeuropaleague/rss.xml",
-        "UAFA3": "http://www.uefa.com/rssfeed/trainingground/grassroots/media.xml",
+        //"UAFA3": "http://www.uefa.com/rssfeed/trainingground/grassroots/media.xml",
         "Yahoo": "http://sports.yahoo.com/soccer/rss.xml?ysp_bucket=1",
         "ESPN": "http://www.espnfc.com/rss",
         "Fox-Sport": "http://api.foxsports.com/v1/rss?partnerKey=zBaFxRyGKCfxBagJG9b8pqLyndmvo7UU&tag=soccer",
