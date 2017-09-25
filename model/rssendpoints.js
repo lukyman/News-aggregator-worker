@@ -2,7 +2,7 @@ module.exports = {
     "local": {
         "Standardmedia": "http://www.standardmedia.co.ke/rss/headlines.php",
         "The-Star": "http://www.the-star.co.ke/taxonomy/term/all/rss.xml",
-        "Daily-Nation": "http://www.nation.co.ke/latestrss.rss",
+       // "Daily-Nation": "http://www.nation.co.ke/latestrss.rss",
         "Gafla": "http://www.ghafla.com/ke/feed/",
         "Mediamax": "http://www.mediamaxnetwork.co.ke/news/feed/",
         "Kenyans": "https://www.kenyans.co.ke/feeds/news",
