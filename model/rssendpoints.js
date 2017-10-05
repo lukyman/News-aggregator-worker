@@ -42,7 +42,7 @@ module.exports = {
 		
         "Huffington-Post": "http://www.huffingtonpost.co.uk/feeds/verticals/uk-style/blog.xml",
         "Justlux": "http://www.justluxe.com/rss/rss-channels.php?sec=fineliving",
-        "Healthy-Woman": "http://healthywoman.co.ke/feed/",
+       // "Healthy-Woman": "http://healthywoman.co.ke/feed/",
         "Luciamusau": "http://luciamusau.com/feed/",
         "eDaily": "https://edaily.co.ke/feed/",
         "Citizen-News": "https://citizentv.co.ke/lifestyle/feed/",
